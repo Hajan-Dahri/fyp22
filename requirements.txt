@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+python-docx
+langchain
+langchain-community
+chromadb
+requests
+numpy
+scipy
+scikit-learn
