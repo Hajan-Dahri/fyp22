@@ -8,3 +8,4 @@ requests
 numpy
 scipy
 scikit-learn
+openai
